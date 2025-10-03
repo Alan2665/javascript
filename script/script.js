@@ -67,7 +67,7 @@ variables.
 operadores de comparacion:
 estos operadores se utilizan para comparar dos valores u devuelven un valor boolean
 ==:igualdad
-!=:desigualdad
+!=:desigualdadaaad
 >:mayor que 
 <:menor que
 >=:mayor o igual que
